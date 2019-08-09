@@ -7,7 +7,7 @@
 ### Need Before Edit?
 
 - Node 8+
-- Yarn 1.17
+- Yarn 1.17 (if u use yarn)
 
 ### Want to Edit?
 
